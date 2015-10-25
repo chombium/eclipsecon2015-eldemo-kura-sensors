@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Eclipsecon2015-eldemo-sensors
+Bundle-SymbolicName: com.wordpress.chombium.eldemo.sensors;singleton:=true
+Bundle-Version: 0.0.1.snapshot
+Bundle-Vendor: Jovan Kostovski <chombium@gmail.com>
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Export-Package: com.wordpress.chombium.eldemo.sensors
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
