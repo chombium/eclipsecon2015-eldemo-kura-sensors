@@ -1,4 +1,4 @@
-# Eclipse Kura RaspberryPi GPIO Demo
+# Eclipse Kura Demo Common Interfaces
 
 Eclipsecon Europe 2015 Demo System Kura common interfaces 
 
