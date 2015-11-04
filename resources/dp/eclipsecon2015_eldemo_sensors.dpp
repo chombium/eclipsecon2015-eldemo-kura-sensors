@@ -1,5 +1,5 @@
 #Deployment Plugin Project File
-#Wed Nov 04 00:43:56 CET 2015
+#Wed Nov 04 01:11:24 CET 2015
 build.ant.name=<.>/resources/dp/eclipsecon2015_eldemo_sensors_build.xml
 build.dp.file=<.>/resources/dp/eclipsecon2015_eldemo_sensors.dp
 build.location=
@@ -15,6 +15,6 @@ certificates.count=0
 general.signbundles=false
 headers.other.headers=
 headers.symbolic.name=eclipsecon2015_eldemo_sensors
-headers.version=1.0.0
+headers.version=0.0.1
 resources.count=0
 
